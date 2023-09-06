@@ -1,0 +1,5 @@
+site_name: BlindGumption Documentation
+site_url: https://blindgumption.readthedocs.io
+nav:
+  - Home: index.md
+  - About: about.md
