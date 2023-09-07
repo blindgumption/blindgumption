@@ -3,3 +3,5 @@ site_url: https://blindgumption.readthedocs.io
 nav:
   - Home: index.md
   - About: about.md
+  - Captain's Log: captainslog.md
+  - Change Log: changelog.md
