@@ -1,5 +1,7 @@
 site_name: BlindGumption Documentation
-site_url: https://blindgumption.readthedocs.io
+site_url: https://blindgumption.github.io/blindgumption
+repo_url: https://github.com/blindgumption/blindgumption 
+
 nav:
   - Home: index.md
   - About: about.md
